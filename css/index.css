@@ -2,6 +2,15 @@
   display: flex;
   justify-content: space-between;
 }
+.sitebutton {
+  background-color: #17A2B8;
+  color: #FFFFFF;
+  border: 1px solid #C0C0C0;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2rem;
+  padding: 1rem 0;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -188,7 +197,6 @@ img {
   margin-bottom: 30px;
 }
 .btn {
-  width: 100%;
   background-color: #17A2B8;
   color: #FFFFFF;
   border: 1px solid #C0C0C0;
@@ -196,6 +204,7 @@ img {
   text-align: center;
   font-size: 2rem;
   padding: 1rem 0;
+  width: 100%;
 }
 nav {
   display: flex;
